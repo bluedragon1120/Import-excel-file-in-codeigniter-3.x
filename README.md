@@ -9,4 +9,4 @@ If you use this source in your local, you need to use xampp version < 3.2.4
 
 If you want to view more, please visit http://bestwebdoctor.zyfesco.co
 
-![]()screenshot/screenshot.PNG
+![](./screenshot/screenshot.PNG)
